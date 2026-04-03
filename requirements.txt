@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+chromadb
+sentence-transformers
+easyocr
+pillow
+numpy
+requests
